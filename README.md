@@ -32,14 +32,14 @@ https://www.kaggle.com/datasets/panupongsingdee/acneclearcomedo-dataset
 
 ## Training Result :
 ![WhatsApp Image 2024-11-28 at 6 03 32 PM](https://github.com/user-attachments/assets/73b085bf-b077-4e73-a27c-c4aaa1d44b82)
-### Parameter Training :
+### Training Parameter :
 - Optimizer: Adam
 - Learning Rate: 0.0001
 - Loss Function: Categorical Crossentropy
 - Batch Size: 32
 - Epochs: 50
 - Validation Split: 20%
-### Hasil Training :
+### Accuracy :
 - Training Accuracy: 0.9156%
 - Validation Accuracy: 0.9060%
 - Training Loss: 0.2412%
